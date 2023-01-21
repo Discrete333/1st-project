@@ -1,0 +1,70 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+
+/*toptop*/
+.links {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    padding-left: px;
+    
+    
+
+}
+
+.path {
+    width: 90px;
+    margin-bottom: px;
+    position: relative;
+    bottom: 10px;
+    left: 5px;
+}
+
+a.mj {
+    color: white;
+    text-decoration: none;
+}
+
+.start {
+    display: flex;
+    list-style-type: none;
+    
+}
+.end {
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+}
+/*toptop*/
+
+/*hero*/
+.hero {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #1f2937;
+    color: white;
+    height: 400px;
+    
+}
+
+.path2 {
+    width: 300px;
+    height: 200px;
+    margin-left: ;
+}
+
+.first {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 300px;
+    gap: ;
+    
+}
