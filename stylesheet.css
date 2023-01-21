@@ -52,19 +52,19 @@ a.mj {
     background-color: #1f2937;
     color: white;
     height: 400px;
+    margin-top: -20px;
     
 }
 
 .programmer {
     width: 300px;
     height: 200px;
-    margin-left: ;
+    
 }
 
 .first {
     display: flex;
     flex-direction: column;
-    flex-wrap: ;
     width: 300px; 
      
 }
@@ -75,5 +75,36 @@ a.mj {
 
 .join {
     width: 70px;
+    height: 20px;
     border-radius: 8px;
+    background-color: #3882F6;
+    color: white;
+    border: 0;
+}
+
+/*hero*/
+
+/*cta*/
+
+.cta {
+    background-color:antiquewhite;
+    display: flex;
+    flex-direction: column;
+    margin-top: -40px;
+    padding-bottom: 30px;
+}
+
+.list {
+    display: flex;
+    justify-content:space-evenly;
+    
+
+}
+
+.lang {
+    width: 150px;
+    height: 200px;
+    
+    
+
 }
