@@ -85,13 +85,12 @@ a.mj {
 /*hero*/
 
 /*cta*/
-
 .cta {
     background-color:antiquewhite;
     display: flex;
     flex-direction: column;
     margin-top: -40px;
-    padding-bottom: 30px;
+    height: 310px;
 }
 
 .list {
@@ -107,4 +106,56 @@ a.mj {
     
     
 
+}
+/*cta*/
+
+/*quote*/
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: 150px;
+    
+}
+/*quote*/
+
+/*bottom*/
+
+.bottom {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+
+.bd {
+    background-color: #3882F6;
+    width: 400px;
+    height: 70px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+
+}
+
+.at {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.j2 {
+    background-color: #3882F6;
+    border-color: white;
+    border-radius: 5px; 
+    font-size: 15px;
+    color: white;
 }
